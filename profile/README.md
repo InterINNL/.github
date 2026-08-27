@@ -79,7 +79,7 @@ Focused hackathons around real problems. First theme: **AquaChain** (water + AI 
 | | |
 | --- | --- |
 | [Gregory Roussac](https://www.linkedin.com/in/gregoryroussac/) | Netherlands / France |
-| [Reham Abdul Rauf](https://www.linkedin.com/in/reham-abdul-rauf-a0634b140/) | India / Netherlands |
+| [Reham Abdul Rauf](https://www.linkedin.com/in/reham-abdul-rauf-a0634b140/) | India / Netherlands / HK |
 
 ---
 
