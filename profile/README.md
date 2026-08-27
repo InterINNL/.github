@@ -40,10 +40,6 @@ We bring together students, developers, engineers and families who build across 
 
 **IN → NL.** The name is the mission.
 
-<p align="center">
-  <img src="assets/canal-meetup.png" alt="Indian and Dutch builders collaborating in the Netherlands" width="720" />
-</p>
-
 ---
 
 ## Where we meet
@@ -70,20 +66,6 @@ Open-source CosmWasm + Angular demo for smarter, more trusted water management: 
 
 Modules today: **Citizen Science**, **Water Well Initiative**, **Water Utilities**.
 
-<p align="center">
-  <img src="assets/team-office.png" alt="Engineers collaborating on code" width="720" />
-</p>
-
----
-
-## People on the move
-
-Relocating for tech is real: passports, families, new cities.
-
-<p align="center">
-  <img src="assets/passport-tulips.png" alt="Indian passport in a Dutch tulip field" width="720" />
-</p>
-
 ---
 
 ## Events
@@ -96,7 +78,7 @@ Focused hackathons around real problems. First theme: **AquaChain** (water + AI 
 
 | | |
 | --- | --- |
-| [Gregory Roussac](https://www.linkedin.com/in/gregoryroussac/) | Netherlands |
+| [Gregory Roussac](https://www.linkedin.com/in/gregoryroussac/) | Netherlands / France |
 | [Reham Abdul Rauf](https://www.linkedin.com/in/reham-abdul-rauf-a0634b140/) | India / Netherlands |
 
 ---
