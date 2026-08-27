@@ -2,13 +2,31 @@
 
 **India × Netherlands × Next Level**
 
-<img src="https://raw.githubusercontent.com/InterINNL/.github/main/profile/assets/interinnl-logo.png" alt="InterINNL" width="220" />
+<p align="center">
+  <img src="assets/interinnl-logo.png" alt="InterINNL" width="200" />
+</p>
 
-**BUILD · SHARE · IMPACT**
+<p align="center"><strong>BUILD · SHARE · IMPACT</strong></p>
 
-InterINNL is a community connecting people across **India** and the **Netherlands** around AI, Rust, technology and open source.
+<p align="center">
+  <img src="assets/banner-tulips.png" alt="India and Netherlands together" width="720" />
+</p>
+
+InterINNL is a community connecting people across **India** and the **Netherlands** around **AI**, **LLMs**, **blockchain**, Rust, technology and open source.
 
 We bring together students, developers, engineers and families who build across borders: Indian talent, engineers already in the Netherlands, Dutch builders, and open-source projects with real-world impact.
+
+---
+
+## What we build around
+
+| Focus | Why it matters here |
+| --- | --- |
+| **AI & LLMs** | Practical models, agents and tooling shipped by builders on both sides of the bridge |
+| **Blockchain / CosmWasm** | Verifiable data and open protocols (see AquaChain) |
+| **Rust** | Systems, Wasm and serious engineering craft |
+| **Open source** | Public GitHub, demos, contributors, not slide decks |
+| **Water & climate** | Dutch expertise × Indian scale, starting with AquaChain |
 
 ---
 
@@ -18,9 +36,13 @@ We bring together students, developers, engineers and families who build across 
 | --- | --- | --- |
 | Students and early-career builders | | Dutch engineering culture |
 | Engineers relocating for tech careers | | Companies and open-source maintainers |
-| Ideas at scale | | Water, climate and deep-tech craft |
+| AI / LLM / blockchain ideas at scale | | Water, climate and deep-tech craft |
 
 **IN → NL.** The name is the mission.
+
+<p align="center">
+  <img src="assets/canal-meetup.png" alt="Indian and Dutch builders collaborating in the Netherlands" width="720" />
+</p>
 
 ---
 
@@ -38,9 +60,7 @@ We bring together students, developers, engineers and families who build across 
 
 ### AquaChain
 
-Open-source CosmWasm + Angular demo for smarter, more trusted water management.
-
-Sensors, citizens, utilities and donors share verified water data. Blockchain helps make that data trustworthy. An InterINNL hackathon-style project connecting Dutch water expertise with Indian scale.
+Open-source CosmWasm + Angular demo for smarter, more trusted water management: IoT sensors, **blockchain** verification, and room for **AI** analytics.
 
 | | |
 | --- | --- |
@@ -50,20 +70,25 @@ Sensors, citizens, utilities and donors share verified water data. Blockchain he
 
 Modules today: **Citizen Science**, **Water Well Initiative**, **Water Utilities**.
 
+<p align="center">
+  <img src="assets/team-office.png" alt="Engineers collaborating on code" width="720" />
+</p>
+
 ---
 
-## What we care about
+## People on the move
 
-- Open-source projects that leave public GitHub repos, demos and contributors
-- Collaboration between India and the Netherlands, not tourism slides
-- AI, Rust, CosmWasm / Cosmos, IoT and climate / water tech
-- People: students, relocating families, engineers on both sides of the bridge
+Relocating for tech is real: passports, families, new cities.
+
+<p align="center">
+  <img src="assets/passport-tulips.png" alt="Indian passport in a Dutch tulip field" width="720" />
+</p>
 
 ---
 
 ## Events
 
-We run focused hackathons around real problems. First theme: **AquaChain** (water). Every event should produce public code and new community members.
+Focused hackathons around real problems. First theme: **AquaChain** (water + AI + blockchain). Every event should produce public code and new community members.
 
 ---
 
@@ -81,7 +106,7 @@ We run focused hackathons around real problems. First theme: **AquaChain** (wate
 1. Star and explore [our repos](https://github.com/InterINNL)
 2. Join the [LinkedIn group](https://www.linkedin.com/groups/42420002/)
 3. Visit the [community site](https://interinnl.interchouette.net/)
-4. Say hello. Build something with us.
+4. Say hello. Build AI, LLMs, blockchain and open source with us.
 
 🇮🇳 🤝 🇳🇱
 
